@@ -116,7 +116,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TIANTIANKAIXIN-STAR&bg_color=0d1117&color=D4A017&line=FFD700&point=ffffff&area=true&hide_border=true"/>
+  <img src="https://ghchart.rshah.org/FFD700/TIANTIANKAIXIN-STAR"/>
 </div>
 
 <div align="center">
