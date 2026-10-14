@@ -120,7 +120,9 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TIANTIANKAIXIN-STAR&no-frame=true&no-bg=true&margin-w=8&title_color=FFD700&icon_color=FFD700&column=7"/>
+  <img src="https://img.shields.io/github/stars/TIANTIANKAIXIN-STAR/ZS_Live?style=for-the-badge&logo=github&color=D4A017&label=ZS_Live%20Stars"/>
+  <img src="https://img.shields.io/github/forks/TIANTIANKAIXIN-STAR/ZS_Live?style=for-the-badge&logo=github&color=D4A017&label=Forks"/>
+  <img src="https://img.shields.io/github/followers/TIANTIANKAIXIN-STAR?style=for-the-badge&logo=github&color=D4A017&label=Followers"/>
 </div>
 
 <img src="./assets/divider.svg" alt="divider" width="100%"/>
@@ -136,6 +138,4 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0d,100:7a5c00&height=80&section=footer&text=Thanks%20for%20visiting%20%20%F0%9F%9A%80%20%20%E6%84%9F%E8%B0%A2%E6%9D%A5%E8%AE%BF&fontSize=18&fontColor=FFD700&animation=twinkling&fontAlignY=40" alt="footer"/>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=TIANTIANKAIXIN-STAR&label=Profile+views&color=D4A017&style=for-the-badge" alt="profile views"/>
 </div>
