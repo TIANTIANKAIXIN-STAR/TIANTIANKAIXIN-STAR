@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 36" width="1000" height="36" role="img" aria-label="divider">
   <defs>
     <linearGradient id="ln" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#00E5FF" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#00E5FF" stop-opacity="0.9"/>
-      <stop offset="100%" stop-color="#00E5FF" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#FFD700" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#FFD700" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#FFD700" stop-opacity="0"/>
     </linearGradient>
     <filter id="g"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
   </defs>
   <line x1="40" y1="18" x2="960" y2="18" stroke="url(#ln)" stroke-width="2" filter="url(#g)"/>
-  <circle cx="500" cy="18" r="4" fill="#00E5FF" filter="url(#g)"/>
-  <circle cx="500" cy="18" r="9" fill="none" stroke="#00E5FF" stroke-opacity="0.4" stroke-width="1"/>
-  <circle cx="40" cy="18" r="2.5" fill="#7FE9FF"/>
-  <circle cx="960" cy="18" r="2.5" fill="#7FE9FF"/>
+  <circle cx="500" cy="18" r="4" fill="#FFD700" filter="url(#g)"/>
+  <circle cx="500" cy="18" r="9" fill="none" stroke="#FFD700" stroke-opacity="0.4" stroke-width="1"/>
+  <circle cx="40" cy="18" r="2.5" fill="#FFE58A"/>
+  <circle cx="960" cy="18" r="2.5" fill="#FFE58A"/>
 </svg>
